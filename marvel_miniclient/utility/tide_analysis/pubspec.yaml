@@ -1,0 +1,5 @@
+name: tide_analysis
+description: MarvelMiniclient linter rules
+version: 0.0.1
+environment:
+  sdk: ^3.2.0 # or newer

@@ -1,0 +1,17 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "tide_analysis",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    }
+  ],
+  "generated": "2025-01-16T11:10:10.619862Z",
+  "generator": "pub",
+  "generatorVersion": "3.4.1",
+  "flutterRoot": "file:///Users/shahnafiz/Dev/flutter",
+  "flutterVersion": "3.22.1",
+  "pubCache": "file:///Users/shahnafiz/.pub-cache"
+}
