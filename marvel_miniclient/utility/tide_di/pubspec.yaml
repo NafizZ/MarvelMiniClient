@@ -1,0 +1,14 @@
+name: tide_di
+description: Tide's dependency injection mechanism
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ^3.2.0
+
+dependencies:
+  get_it: ^7.6.4
+
+dev_dependencies:
+  tide_analysis:
+    path: ../tide_analysis

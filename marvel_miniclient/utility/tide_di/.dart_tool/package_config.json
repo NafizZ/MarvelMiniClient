@@ -1,0 +1,47 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "async",
+      "rootUri": "file:///Users/shahnafiz/.pub-cache/hosted/pub.dev/async-2.12.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///Users/shahnafiz/.pub-cache/hosted/pub.dev/collection-1.19.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "get_it",
+      "rootUri": "file:///Users/shahnafiz/.pub-cache/hosted/pub.dev/get_it-7.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/shahnafiz/.pub-cache/hosted/pub.dev/meta-1.16.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "tide_analysis",
+      "rootUri": "../../tide_analysis",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "tide_di",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    }
+  ],
+  "generated": "2025-01-22T06:11:50.018547Z",
+  "generator": "pub",
+  "generatorVersion": "3.4.1",
+  "flutterRoot": "file:///Users/shahnafiz/Dev/flutter",
+  "flutterVersion": "3.22.1",
+  "pubCache": "file:///Users/shahnafiz/.pub-cache"
+}
